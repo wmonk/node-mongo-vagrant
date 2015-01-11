@@ -17,7 +17,7 @@ hostname web
 
 bash /vagrant/shell/core.sh
 
-bash /vagrant/shell/node.sh
+bash /vagrant/shell/nodejs.sh
 
 bash /vagrant/shell/mongo.sh
 
